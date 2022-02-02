@@ -1,0 +1,27 @@
+{
+  "algo": {
+    "name": "areacomp",
+    "data": {
+      "coder": {
+        "name": "grammar_tuple",
+        "data": {
+          "len_coder": {
+            "name": "gamma"
+          },
+          "terminal_coder": {
+            "name": "gamma"
+          },
+          "nonterminal_coder": {
+            "name": "binary"
+          }
+        }
+      },
+      "area_function": {
+        "name": "height_first"
+      }
+    }
+  },
+  "sentinel": true,
+  "force": true,
+  "charts": true
+}
